@@ -1,0 +1,38 @@
+body{
+    background-color:saddlebrown;
+}
+img{
+    max-width:350px;
+    max-height:400px;
+    margin: 18px;
+}
+
+h1{
+    border: 20px;
+    border-top-style:solid
+
+}
+
+h1{
+    margin: 15px;
+    text-align: center
+}
+
+h2{
+    margin: 2px;
+    font-size: small;
+    font-style: normal;
+    text-align:center
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 20px;
+}
+
+button{
+    border-radius: 10px;
+    border-color: orange;
+    background-color: white;
+}
